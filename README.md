@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Luis Enrique Azuaje 👋</h1>
 
-<h3 align="center">Senior Full Stack Developer | AzuajeDev</h3>
+<h3 align="center">Full Stack Developer | AzuajeDev</h3>
 
 <p align="center">
   <em>"Arquitectura limpia, código eficiente, soluciones escalables."</em>
