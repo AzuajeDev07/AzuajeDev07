@@ -1,63 +1,112 @@
-<h1 align="center">Hola, soy Luis Enrique Azuaje 👋</h1>
+<br clear="both">
 
-<h3 align="center">Full Stack Developer | AzuajeDev</h3>
-
-<p align="center">
-  <em>"Arquitectura limpia, código eficiente, soluciones escalables."</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="tu-usuario" />
-</p>
-
----
-
-### 👨‍💻 Sobre mí
-Soy **Luis Enrique Azuaje Tovar**, un apasionado por la ingeniería de software con enfoque en arquitecturas robustas y escalables. Actualmente, mi stack principal gira en torno a **Java (Spring Boot)** y **Python**, siempre buscando la excelencia técnica y el rendimiento.
-
-*   🔭 Actualmente enfocado en: **MiVitrina** (SaaS Marketplace) y la migración de sistemas críticos como **SVRID**.
-*   🌱 Preparándome para: **Oracle Certified Professional (OCP) Java SE 25**.
-*   ⚡ Me apasiona: El hardware de alto rendimiento, Linux Mint como entorno de trabajo y el mindset de "Hacker/MVP".
-*   📫 Contáctame: [Tu Email o LinkedIn]
-
----
-
-### 🛠 Tech Stack
-
-**Lenguajes:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Backend & Frameworks:**
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-**Entorno & Herramientas:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Tech Stack |
-| :--- | :--- | :--- |
-| **[MiVitrina](https://github.com/tu-usuario/mivitrina)** | SaaS Multi-tenant para comercios locales. | Java, Spring Boot, PostgreSQL |
-| **[SVRID Rescue](https://github.com/tu-usuario/svrid)** | Rescate y migración de infraestructura digital. | Cloud, Linux, CMS |
-| **[Timetabling Tool](https://github.com/tu-usuario/timetabling)** | Automatización de horarios académicos. | Spring Boot, H2, Java |
-
----
-
-### 📈 Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
----
-
+<!-- TITULO/PORTADA -->
 <div align="center">
-  <p>Construyendo el futuro, una línea de código a la vez.</p>
-  <a href="https://azuajedev.com">Visita AzuajeDev</a>
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=blur&height=110&section=header&reversal=false&text=Luis%20Azuaje&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&rotate=0&stroke=-&strokeWidth=0&animation=blink&desc=%7B%20Desarrollador%20Full-Stack%20%7D&descSize=25&descAlign=50&descAlignY=85&textBg=false&theme=dark" />
 </div>
+
+<!-- ACERCA DE MÍ -->
+<!-- ACERCA DE MÍ (con tabla de borde negro) -->
+<table align="center" width="100%" style="border: 2px solid black; border-collapse: collapse;">
+  <tr>
+    <td width="70%" style="vertical-align: middle; border: 2px solid black; padding: 15px;">
+      <h3>Acerca de mí</h3>
+      <p align="left">
+        Soy <b>estudiante universitario de Informática</b>.<br><br>
+        Mi primer lenguaje de programación fue <b>Java</b>, razón por la cual me inclino con entusiasmo hacia el <b>back‑end</b>.<br><br>
+        No obstante, también poseo conocimientos sólidos de <b>front‑end</b>, porque estoy convencido de que un sistema debe primero <i>funcionar correctamente</i> y, en segundo lugar, seguir los principios de <b>UX/UI</b> para ofrecer una experiencia de usuario óptima. Aprender front‑end es el camino natural para lograr ese <i>equilibrio</i>.<br><br>
+        Actualmente me encuentro <b>estudiando</b> para aprobar el examen <b>OCP Java SE 25</b>.
+      </p>
+    </td>
+    <td width="30%" align="right" style="vertical-align: middle; border: 2px solid black; padding: 15px;">
+      <img height="178" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM213dXYyenVieGR2dW9sc3E4cWU4dmRueWVlOWc5Mm9uMWltd2JyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK5q771QamPcs/giphy.gif" />
+    </td>
+  </tr>
+</table>
+
+<br clear="both">
+
+<!-- STACK TECNOLÓGICO -->
+<h3 align="center">| Stack Tecnológico |</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="HTML5" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="CSS3" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="70" alt="JavaScript" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="80" alt="Tailwind CSS"/>
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="Java" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70" alt="Spring" />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="MySQL" />
+</div>
+
+<br clear="both">
+
+<!-- PROYECTOS RELEVANTES -->
+<h3 align="center">📂 Proyectos Relevantes</h3>
+<div align="left" style="padding: 0 20px;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 8px;">
+      <b>FreeMarcano.com</b> — Desarrollo integral para portafolio artístico. 
+      <a href="https://freemarcano.com" target="_blank">[ver más]</a>
+    </li>
+    <li style="margin-bottom: 8px;">
+      <b>eLearningCenterInHealth.org</b> — Plataforma educativa con integración de Stripe. 
+      <a href="https://elearningcenterinhealth.org" target="_blank">[ver más]</a>
+    </li>
+    <li style="margin-bottom: 8px;">
+      <b>Rescate y Migración SVRID</b> — Recuperación y despliegue de infraestructura académica. 
+      <a href="https://www.svrid.org.ve/index.php/rid" target="_blank">[ver más]</a>
+    </li>
+    <li style="margin-bottom: 8px;">
+      <b>Generador de Horarios (AzuajeDev)</b> — Herramienta de escritorio, "aún en desarrollo". 
+      <a href="https://www.youtube.com/watch?v=Aq5WXmQQooo" target="_blank">[ver más]</a>
+    </li>
+  </ul>
+</div>
+
+<br clear="both">
+
+<!-- CONTACTO Y REDES SOCIALES (con tabla de borde negro) -->
+<table align="center" width="100%" style="border: 2px solid black; border-collapse: collapse;">
+  <tr>
+    <!-- Logo a la izquierda -->
+    <td width="25%" align="center" style="vertical-align: middle; border: 2px solid black; padding: 15px;">
+      <img height="130" 
+           src="https://scontent.fccs5-1.fna.fbcdn.net/v/t39.30808-6/736260981_122107434015365877_4254019718025259615_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s1920x1080&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CO5dUz9filQQ7kNvwEqSJ8p&_nc_oc=AdpXIFs6MvTURnBa6oS-D_E3q9YqGmJGsV_OK0xG1Sd7mjEYtbmRLCtwcVUga1koo_w&_nc_zt=23&_nc_ht=scontent.fccs5-1.fna&_nc_gid=vUOpXFKnRKh8-5x-Flh5Bg&_nc_ss=7b2a8&oh=00_AQBNgRFzzwlwIw1t8UFjqdwsXi-JM4sW7SuPI7eZfGmOnA&oe=6A4E5E1A" 
+           alt="AzuajeDev Logo" />
+    </td>
+    <!-- Texto y redes sociales a la derecha -->
+    <td width="75%" style="vertical-align: middle; border: 2px solid black; padding: 15px;">
+      <h3>Contacto</h3>
+      <p>
+        Mis redes sociales son para compartir mi progreso en el mundo del desarrollo de software, 
+        así como para contribuir con <b>tutoriales sobre programación</b> en los lenguajes que domino, 
+        y con <b>proyectos de código abierto</b> para la comunidad.<br><br>
+        ¡Gracias por visitar mi perfil de GitHub! 💙
+      </p>
+      <div>
+        <a href="https://youtube.com/@AzuajeDev" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
+        </a>
+        <a href="https://www.instagram.com/azuajedev/" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+        </a>
+        <a href="https://www.tiktok.com/@azuajedev" target="_blank">
+          <img src="https://cdn.simpleicons.org/tiktok/white" height="40" alt="TikTok" />
+        </a>
+        <a href="https://linkedin.com/in/tu_usuario" target="_blank">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+<br clear="both">
